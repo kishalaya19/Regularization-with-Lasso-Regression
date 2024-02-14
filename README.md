@@ -39,3 +39,6 @@ A- pproach: Implementation of Lasso Regression with parameter tuning.
 - Out-of-Sample Evaluation: The close resemblance of Cross-Validation scores to out-of-sample R-squared values validated the models' predictive capabilities. Information Criterion metrics provided further insights into model complexity and performance, favoring simpler, more generalizable models.
 Conclusion
 - The Melbourne House Price Prediction Project illustrates the complexity of real estate pricing and the effectiveness of machine learning models in capturing and predicting these dynamics. Through careful data preprocessing, model selection, and regularization, the project highlights the balance between model complexity and predictive accuracy, providing valuable insights into Melbourne's real estate market.
+
+## Conclusion
+The Melbourne House Price Prediction Project illustrates the complexity of real estate pricing and the effectiveness of machine learning models in capturing and predicting these dynamics. Through careful data preprocessing, model selection, and regularization, the project highlights the balance between model complexity and predictive accuracy, providing valuable insights into Melbourne's real estate market.
