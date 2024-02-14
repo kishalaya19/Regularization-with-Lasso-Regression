@@ -8,30 +8,28 @@ The dataset consists of 500 observations and 21 columns, detailing various aspec
 
 ## Project Structure
 1. Data Exploration and Visualization
-Objective: To understand the dataset's distribution and characteristics through visual analysis.
-Methods: Utilization of histograms, scatter plots, and box plots to visualize the distribution of features and their relationship with the target variable.
+- Objective: To understand the dataset's distribution and characteristics through visual analysis.
+- Methods: Utilization of histograms, scatter plots, and box plots to visualize the distribution of features and their relationship with the target variable.
 
 2. Linear Regression Model Development
-Objective: To develop a model capable of predicting Melbourne house prices.
-Preprocessing Steps:
+- To develop a model capable of predicting Melbourne house prices.
+- Preprocessing Steps:
 Handling missing values and encoding categorical variables.
 Removal of columns with substantial missing data or those deemed irrelevant to the target variable.
 Application of log transformation to normalize the distribution of the target variable.
 
 3. Model Evaluation
-Objective: To assess the performance of the Linear Regression model.
-Metrics Used: RMSE (Root Mean Squared Error) and R-squared.
+- Objective: To assess the performance of the Linear Regression model.
+- Metrics Used: RMSE (Root Mean Squared Error) and R-squared.
 
 4. Regularization with Lasso Regression
-Objective: To address potential overfitting and improve model generalization.
-Approach: Implementation of Lasso Regression with parameter tuning.
+- Objective: To address potential overfitting and improve model generalization.
+A- pproach: Implementation of Lasso Regression with parameter tuning.
 
 5. Out-of-Sample Performance
-Objective: To compare the true out-of-sample performance of both Linear and Lasso Regression models.
-Methodology:
-New model training on an 80-20 train-test split.
-Estimation of AIC, AICc, BIC, and 5-fold Cross-Validation scores.
-Deviance computation on the test data for true out-of-sample performance assessment.
+- Objective: To compare the true out-of-sample performance of both Linear and Lasso Regression models.
+
+- Estimation of AIC, AICc, BIC, and 5-fold Cross-Validation scores. Deviance computation on the test data for true out-of-sample performance assessment.
 
 ## Main Highlights and Outcomes
 
