@@ -1,5 +1,4 @@
-# Lasso Regression 
-## on Melbourne House Price Prediction Project
+# Lasso Regression (Melbourne House Price Prediction)
 
 ## Overview
 This project aims to develop predictive models for estimating the price of houses in Melbourne using various features such as the number of bedrooms, bathrooms, parking spots, and square footage area. Through comprehensive data analysis and application of machine learning models, including Linear and Lasso Regression, the project seeks to understand the factors influencing house prices and predict them accurately.
