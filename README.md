@@ -7,7 +7,7 @@ This project aims to develop predictive models for estimating the price of house
 The dataset consists of 500 observations and 21 columns, detailing various aspects of houses in Melbourne that could potentially affect their market price. The target variable is the house price, while the predictor variables include the number of bedrooms, parking spots, square footage area, and others. Notably, the dataset features a mix of numerical and categorical data, requiring careful preprocessing to prepare for model training.
 
 ## Project Structure
-<img src="structure.png" width="540" height="381">
+<img src="structure.png" width="740" height="351">
 
 1. Data Exploration and Visualization
 - Objective: To understand the dataset's distribution and characteristics through visual analysis.
