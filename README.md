@@ -37,8 +37,6 @@ A- pproach: Implementation of Lasso Regression with parameter tuning.
 - Model Performance: Initial overfitting in the Linear Regression model was mitigated through Lasso Regression, which offered a more generalized model capable of making more accurate predictions on unseen data.
 - Regularization Impact: Lasso Regression improved model generalization but also suggested the possible exclusion of beneficial features, as indicated by the slight increase in RMSE for out-of-sample data.
 - Out-of-Sample Evaluation: The close resemblance of Cross-Validation scores to out-of-sample R-squared values validated the models' predictive capabilities. Information Criterion metrics provided further insights into model complexity and performance, favoring simpler, more generalizable models.
-Conclusion
-- The Melbourne House Price Prediction Project illustrates the complexity of real estate pricing and the effectiveness of machine learning models in capturing and predicting these dynamics. Through careful data preprocessing, model selection, and regularization, the project highlights the balance between model complexity and predictive accuracy, providing valuable insights into Melbourne's real estate market.
 
 ## Conclusion
 The Melbourne House Price Prediction Project illustrates the complexity of real estate pricing and the effectiveness of machine learning models in capturing and predicting these dynamics. Through careful data preprocessing, model selection, and regularization, the project highlights the balance between model complexity and predictive accuracy, providing valuable insights into Melbourne's real estate market.
